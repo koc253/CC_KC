@@ -5,6 +5,7 @@
 //Pressing 2 will choose the line-drawing tool
 //Pressing 3 will choose the triangle tool
 //Pressing 4 will choose the square tool
+//Pressing 0 will wipe the screen clean
   
 int white = 255;
 
