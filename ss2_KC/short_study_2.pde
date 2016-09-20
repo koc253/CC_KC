@@ -1,4 +1,11 @@
 //BS Paint  by Kayhan ''KC'' Celik
+
+//INSTRUCTIONS: 
+//Pressing 1 will choose the Ellipse tool
+//Pressing 2 will choose the line-drawing tool
+//Pressing 3 will choose the triangle tool
+//Pressing 4 will choose the square tool
+  
 int white = 255;
 
 void setup() { 
